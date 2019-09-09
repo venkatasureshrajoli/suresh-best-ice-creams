@@ -3,6 +3,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+#### `npm install`
+After cloning the app, please do npm install to install the dependencies required for the application to run.
+
+### `npm start:both`
+To run the application which starts both front-end and back-end.
 
 ### `npm start`
 
