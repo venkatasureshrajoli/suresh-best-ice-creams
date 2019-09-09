@@ -6,8 +6,10 @@ In the project directory, you can run:
 #### `npm install`
 After cloning the app, please do npm install to install the dependencies required for the application to run.
 
-### `npm start:both`
+### `npm run start:both`
 To run the application which starts both front-end and back-end.
+Please make sure back-end server PORT 3001 is not running by any other application and it is open.
+
 
 ### `npm start`
 
